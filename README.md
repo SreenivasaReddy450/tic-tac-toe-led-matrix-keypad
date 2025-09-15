@@ -4,6 +4,11 @@ A classic **Tic-Tac-Toe game** built entirely from scratch on the **STM32 Nucleo
 The project combines **embedded hardware control** with **game logic**, using a **4x4 keypad** for player input, a **custom 3x3 LED matrix** for visual display, and the **Serial Wire Output (SWO)** interface for real-time console feedback.
 
 ---
+## 🎥 Video Demo
+
+[![Tic-Tac-Toe on Nucleo Board Demo](https://img.youtube.com/vi/o3sv6AIWCfY/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3sv6AIWCfY)
+
+> **Note:** Click the thumbnail above to watch the project in action!
 
 ## ✨ Features
 
