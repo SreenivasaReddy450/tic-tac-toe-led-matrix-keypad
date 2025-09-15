@@ -1,0 +1,5 @@
+../Src/led.c:14:6:display_win_row	16	static
+../Src/led.c:30:6:pwm_led	24	static
+../Src/led.c:70:6:timer_delay_init	4	static
+../Src/led.c:81:6:delay_us	16	static
+../Src/led.c:89:6:reset_led_brightness	16	static
