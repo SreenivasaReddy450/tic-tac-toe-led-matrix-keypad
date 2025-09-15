@@ -6,7 +6,7 @@ The project combines **embedded hardware control** with **game logic**, using a 
 ---
 ## 🎥 Video Demo
 
-[![Tic-Tac-Toe on Nucleo Board Demo](https://img.youtube.com/vi/o3sv6AIWCfY/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3sv6AIWCfY)
+[![Tic-Tac-Toe on Nucleo Board Demo](https://img.youtube.com/vi/o3sv6AIWCfY/hqdefault.jpg)](https://www.youtube.com/watch?v=o3sv6AIWCfY)
 
 > **Note:** Click the thumbnail above to watch the project in action!
 
